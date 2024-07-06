@@ -10,3 +10,4 @@ while counter <= 10 :
     Sum = Sum + counter
     counter = counter+1
 print("the series ", Sum )
+#change the code here 
